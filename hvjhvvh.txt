@@ -1,0 +1,5 @@
+use SISTEMA_ACADEMICO_ETEC_HELIOPOLIS;
+
+insert into alunos (Nome, Data_Nascimento, Idade, CPF, RG_Identidade, Nome_Pai, Nome_Mae, Endereco, Numero, Cidade, Estado, Bairro, Telefone, Celular, Chamarpor, Alergia, Grupo_Sangue, Doador) values ("Gefferson", "12252020", "2", "123456789","9876541", "Guime", "Valeska","Rua Cimas Turbo", "69", "Paula Tejano", "Thomaz Turbano", "Jacinto Leite Aquino Rego", "70707070", "40028922", "Laercio", "Leite", "O-", "1");
+
+select * from alunos; 
