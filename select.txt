@@ -1,0 +1,10 @@
+select * from alunos
+
+SELECT * FROM ALUNOS
+GO
+SELECT Nome,Data_Nascimento FROM ALUNOS WHERE Nome_Mae = 'MARIA SILVA' 
+select * from alunos
+
+SELECT *
+FROM ALUNOS
+WHERE Nome Like '%SILVA%'
